@@ -1,0 +1,112 @@
+Mining 1
+Mining 2
+Mining 3
+Mining 4
+Mining 5
+Industry 1
+Reprocessing 1
+Reprocessing 2
+Reprocessing 3
+Reprocessing 4
+Reprocessing 5
+Reprocessing Efficiency 1
+Reprocessing Efficiency 2
+Reprocessing Efficiency 3
+Reprocessing Efficiency 4
+Reprocessing Efficiency 5
+Science 1
+Science 2
+Science 3
+Simple Ore Processing 1
+Simple Ore Processing 2
+Simple Ore Processing 3
+Spaceship Command 1
+Mining Frigate 1
+Mining Frigate 2
+Mining Frigate 3
+Mining Frigate 4
+Mining Frigate 5
+Industry 2
+Industry 3
+Mass Production 1
+Mass Production 2
+Mass Production 3
+Mass Production 4
+Mass Production 5
+Advanced Mass Production 1
+Advanced Mass Production 2
+Advanced Mass Production 3
+Advanced Mass Production 4
+Science 4
+Laboratory Operation 1
+Laboratory Operation 2
+Laboratory Operation 3
+Laboratory Operation 4
+Scientific Networking 1
+Astrogeology 1
+Astrogeology 2
+Astrogeology 3
+Astrogeology 4
+Astrogeology 5
+Supply Chain Management 1
+Supply Chain Management 2
+Supply Chain Management 3
+Scientific Networking 2
+Scientific Networking 3
+Scientific Networking 4
+Deep Core Mining 1
+Deep Core Mining 2
+Gas Cloud Harvesting 1
+Gas Cloud Harvesting 2
+Gas Cloud Harvesting 3
+Mining Upgrades 1
+Mining Upgrades 2
+Mining Upgrades 3
+Mining Upgrades 4
+Industrial Reconfiguration 1
+Shipboard Compression Technology 1
+Shipboard Compression Technology 2
+Shipboard Compression Technology 3
+Advanced Mass Production 5
+Mechanics 1
+Mechanics 2
+Mechanics 3
+Mechanics 4
+Mechanics 5
+Industry 4
+Industry 5
+Advanced Industry 1
+Advanced Industry 2
+Advanced Industry 3
+Advanced Industry 4
+Advanced Industry 5
+Capital Ship Construction 1
+Capital Ship Construction 2
+Capital Ship Construction 3
+Capital Ship Construction 4
+Capital Ship Construction 5
+Advanced Small Ship Construction 1
+Advanced Small Ship Construction 2
+Advanced Small Ship Construction 3
+Advanced Small Ship Construction 4
+Advanced Small Ship Construction 5
+Advanced Medium Ship Construction 1
+Advanced Medium Ship Construction 2
+Advanced Medium Ship Construction 3
+Advanced Medium Ship Construction 4
+Advanced Medium Ship Construction 5
+Advanced Large Ship Construction 1
+Advanced Large Ship Construction 2
+Advanced Large Ship Construction 3
+Advanced Large Ship Construction 4
+Advanced Large Ship Construction 5
+Advanced Capital Ship Construction 1
+Advanced Capital Ship Construction 2
+Advanced Capital Ship Construction 3
+Advanced Capital Ship Construction 4
+Advanced Capital Ship Construction 5
+Advanced Industrial Ship Construction 1
+Advanced Industrial Ship Construction 2
+Advanced Industrial Ship Construction 3
+Advanced Industrial Ship Construction 4
+Advanced Industrial Ship Construction 5

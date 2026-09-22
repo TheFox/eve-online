@@ -1,0 +1,179 @@
+Mining 1
+Mining 2
+Mining 3
+Mining Precision 1
+Mining Precision 2
+Mining Precision 3
+Mining Precision 4
+Mining 4
+Mining 5
+Science 1
+Science 2
+Science 3
+Science 4
+Astrogeology 1
+Astrogeology 2
+Astrogeology 3
+Mining Exploitation 1
+Mining Exploitation 2
+Mining Exploitation 3
+Mining Exploitation 4
+Mining Exploitation 5
+Industry 1
+Reprocessing 1
+Reprocessing 2
+Reprocessing 3
+Reprocessing 4
+Simple Ore Processing 1
+Simple Ore Processing 2
+Simple Ore Processing 3
+Simple Ore Processing 4
+Simple Ore Processing 5
+Industry 2
+Industry 3
+Industry 4
+Industry 5
+Spaceship Command 1
+Mining Frigate 1
+Mining Frigate 2
+Mining Frigate 3
+Mining Barge 1
+Mining Barge 2
+Mining Barge 3
+Mining Barge 4
+Mining Barge 5
+Leadership 1
+Mining Foreman 1
+Mining Foreman 2
+Mining Foreman 3
+Mining Foreman 4
+Mining Foreman 5
+Mining Frigate 4
+Mining Frigate 5
+Mining Upgrades 1
+Mining Upgrades 2
+Mining Upgrades 3
+Mining Upgrades 4
+Mining Upgrades 5
+Drones 1
+Mining Drone Operation 1
+Mining Drone Operation 2
+Mining Drone Operation 3
+Mining Drone Operation 4
+Mining Drone Operation 5
+Mining Drone Specialization 1
+Mining Drone Specialization 2
+Mining Drone Specialization 3
+Mining Drone Specialization 4
+Mining Drone Specialization 5
+Astrogeology 4
+Astrogeology 5
+Deep Core Mining 1
+Deep Core Mining 2
+Deep Core Mining 3
+Deep Core Mining 4
+Deep Core Mining 5
+Mining Director 1
+Mining Director 2
+Mining Director 3
+Mining Director 4
+Mining Director 5
+Metallurgy 1
+Metallurgy 2
+Metallurgy 3
+Metallurgy 4
+Reprocessing Efficiency 1
+Reprocessing Efficiency 2
+Reprocessing Efficiency 3
+Reprocessing Efficiency 4
+Reprocessing Efficiency 5
+Common Moon Ore Processing 1
+Common Moon Ore Processing 2
+Common Moon Ore Processing 3
+Common Moon Ore Processing 4
+Common Moon Ore Processing 5
+Ubiquitous Moon Ore Processing 1
+Ubiquitous Moon Ore Processing 2
+Ubiquitous Moon Ore Processing 3
+Ubiquitous Moon Ore Processing 4
+Ubiquitous Moon Ore Processing 5
+Exceptional Moon Ore Processing 1
+Exceptional Moon Ore Processing 2
+Exceptional Moon Ore Processing 3
+Exceptional Moon Ore Processing 4
+Exceptional Moon Ore Processing 5
+Rare Moon Ore Processing 1
+Rare Moon Ore Processing 2
+Rare Moon Ore Processing 3
+Rare Moon Ore Processing 4
+Rare Moon Ore Processing 5
+Uncommon Moon Ore Processing 1
+Uncommon Moon Ore Processing 2
+Uncommon Moon Ore Processing 3
+Uncommon Moon Ore Processing 4
+Uncommon Moon Ore Processing 5
+Reprocessing 5
+Coherent Ore Processing 1
+Coherent Ore Processing 2
+Coherent Ore Processing 3
+Coherent Ore Processing 4
+Coherent Ore Processing 5
+Mercoxit Ore Processing 1
+Mercoxit Ore Processing 2
+Mercoxit Ore Processing 3
+Mercoxit Ore Processing 4
+Mercoxit Ore Processing 5
+Ice Harvesting 1
+Ice Harvesting 2
+Ice Harvesting Drone Operation 1
+Ice Harvesting Drone Operation 2
+Ice Harvesting Drone Operation 3
+Ice Harvesting Drone Operation 4
+Ice Harvesting Drone Operation 5
+Ice Harvesting 3
+Ice Harvesting 4
+Ice Harvesting Drone Specialization 1
+Ice Harvesting Drone Specialization 2
+Ice Harvesting Drone Specialization 3
+Ice Harvesting Drone Specialization 4
+Ice Harvesting Drone Specialization 5
+Drone Avionics 1
+Drone Avionics 2
+Drone Avionics 3
+Drone Avionics 4
+Drones 2
+Drones 3
+Drones 4
+Drones 5
+Drone Interfacing 1
+Drone Interfacing 2
+Drone Interfacing 3
+Drone Interfacing 4
+Drone Interfacing 5
+Spaceship Command 2
+Spaceship Command 3
+Caldari Hauler 1
+Caldari Hauler 2
+Caldari Hauler 3
+Caldari Hauler 4
+Caldari Hauler 5
+Gas Cloud Harvesting 1
+Gas Cloud Harvesting 2
+Gas Cloud Harvesting 3
+Gas Cloud Harvesting 4
+Gas Cloud Harvesting 5
+Mass Production 1
+Mass Production 2
+Mass Production 3
+Mass Production 4
+Mass Production 5
+Advanced Mass Production 1
+Industrial Reconfiguration 1
+Shipboard Compression Technology 1
+Shipboard Compression Technology 2
+Shipboard Compression Technology 3
+Gas Decompression Efficiency 1
+Gas Decompression Efficiency 2
+Gas Decompression Efficiency 3
+Gas Decompression Efficiency 4
+Gas Decompression Efficiency 5

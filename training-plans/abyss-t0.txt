@@ -1,0 +1,30 @@
+Spaceship Command 1
+Caldari Frigate 1
+Caldari Frigate 2
+Caldari Frigate 3
+Caldari Destroyer 1
+Caldari Destroyer 2
+Caldari Destroyer 3
+Spaceship Command 2
+Caldari Cruiser 1
+Missile Launcher Operation 1
+Missile Launcher Operation 2
+Rapid Launch 1
+Missile Launcher Operation 3
+Missile Launcher Operation 4
+Warhead Upgrades 1
+Warhead Upgrades 2
+Warhead Upgrades 3
+Warhead Upgrades 4
+Missile Bombardment 1
+Missile Bombardment 2
+Missile Bombardment 3
+Missile Bombardment 4
+Missile Projection 1
+Missile Projection 2
+Missile Projection 3
+Missile Projection 4
+Target Navigation Prediction 1
+Target Navigation Prediction 2
+Target Navigation Prediction 3
+Target Navigation Prediction 4
