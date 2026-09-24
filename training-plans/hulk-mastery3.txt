@@ -1,0 +1,46 @@
+CPU Management 1
+CPU Management 2
+CPU Management 3
+CPU Management 4
+Magnetometric Sensor Compensation 1
+Magnetometric Sensor Compensation 2
+Magnetometric Sensor Compensation 3
+Navigation 1
+Navigation 2
+Navigation 3
+Navigation 4
+Power Grid Management 1
+Capacitor Systems Operation 1
+Capacitor Systems Operation 2
+Capacitor Systems Operation 3
+Capacitor Systems Operation 4
+Electronic Warfare 1
+Electronic Warfare 2
+Electronic Warfare 3
+Electronic Warfare 4
+Drones 1
+Drones 2
+Drones 3
+Drones 4
+Drones 5
+Advanced Drone Avionics 1
+Advanced Drone Avionics 2
+Advanced Drone Avionics 3
+Advanced Drone Avionics 4
+Drone Sharpshooting 1
+Drone Sharpshooting 2
+Drone Sharpshooting 3
+Drone Sharpshooting 4
+Science 1
+Power Grid Management 2
+Energy Grid Upgrades 1
+Energy Grid Upgrades 2
+Energy Grid Upgrades 3
+Drone Durability 1
+Drone Durability 2
+Drone Durability 3
+Drone Durability 4
+Drone Navigation 1
+Drone Navigation 2
+Drone Navigation 3
+Drone Navigation 4

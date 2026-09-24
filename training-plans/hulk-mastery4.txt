@@ -1,0 +1,115 @@
+CPU Management 1
+Electronic Warfare 1
+Electronic Warfare 2
+Electronic Warfare 3
+Electronic Warfare 4
+Drones 1
+Drones 2
+Drones 3
+Drones 4
+Drones 5
+Advanced Drone Avionics 1
+Advanced Drone Avionics 2
+Advanced Drone Avionics 3
+Advanced Drone Avionics 4
+CPU Management 2
+Long Range Targeting 1
+Long Range Targeting 2
+Long Range Targeting 3
+Long Range Targeting 4
+Power Grid Management 1
+Power Grid Management 2
+Power Grid Management 3
+Capacitor Management 1
+Capacitor Management 2
+Capacitor Management 3
+Capacitor Management 4
+Science 1
+Energy Grid Upgrades 1
+Energy Grid Upgrades 2
+Energy Grid Upgrades 3
+Energy Grid Upgrades 4
+Navigation 1
+Warp Drive Operation 1
+Warp Drive Operation 2
+Warp Drive Operation 3
+Warp Drive Operation 4
+Shield Operation 1
+Shield Operation 2
+Shield Operation 3
+Shield Operation 4
+Thermal Shield Compensation 1
+Thermal Shield Compensation 2
+Thermal Shield Compensation 3
+Thermal Shield Compensation 4
+Shield Upgrades 1
+Shield Upgrades 2
+Shield Upgrades 3
+Shield Upgrades 4
+Kinetic Shield Compensation 1
+Kinetic Shield Compensation 2
+Kinetic Shield Compensation 3
+Kinetic Shield Compensation 4
+Shield Compensation 1
+Shield Compensation 2
+Shield Compensation 3
+Shield Compensation 4
+Drone Durability 1
+Drone Durability 2
+Drone Durability 3
+Drone Durability 4
+Capacitor Systems Operation 1
+Capacitor Systems Operation 2
+Capacitor Systems Operation 3
+Capacitor Systems Operation 4
+Capacitor Systems Operation 5
+EM Shield Compensation 1
+EM Shield Compensation 2
+EM Shield Compensation 3
+EM Shield Compensation 4
+Drone Avionics 1
+Drone Avionics 2
+Drone Avionics 3
+Drone Avionics 4
+Drone Avionics 5
+Signature Analysis 1
+Signature Analysis 2
+Signature Analysis 3
+Signature Analysis 4
+Afterburner 1
+Afterburner 2
+Navigation 2
+Fuel Conservation 1
+Fuel Conservation 2
+Fuel Conservation 3
+Drone Navigation 1
+Drone Navigation 2
+Drone Navigation 3
+Drone Navigation 4
+CPU Management 3
+CPU Management 4
+Magnetometric Sensor Compensation 1
+Magnetometric Sensor Compensation 2
+Magnetometric Sensor Compensation 3
+Magnetometric Sensor Compensation 4
+Navigation 3
+Acceleration Control 1
+Acceleration Control 2
+Acceleration Control 3
+Acceleration Control 4
+Navigation 4
+Navigation 5
+Shield Operation 5
+Drone Sharpshooting 1
+Drone Sharpshooting 2
+Drone Sharpshooting 3
+Drone Sharpshooting 4
+Shield Management 1
+Shield Management 2
+Shield Management 3
+Shield Management 4
+Shield Management 5
+Explosive Shield Compensation 1
+Explosive Shield Compensation 2
+Explosive Shield Compensation 3
+Explosive Shield Compensation 4
