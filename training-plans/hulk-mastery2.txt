@@ -1,0 +1,16 @@
+CPU Management 1
+Electronic Warfare 1
+Electronic Warfare 2
+Electronic Warfare 3
+Electronic Warfare 4
+Drones 1
+Drones 2
+Drones 3
+Drones 4
+Drones 5
+Advanced Drone Avionics 1
+Advanced Drone Avionics 2
+Advanced Drone Avionics 3
+Drone Durability 1
+Drone Durability 2
+Drone Durability 3
