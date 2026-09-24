@@ -1,0 +1,31 @@
+Mining 1
+Mining 2
+Mining 3
+Mining 4
+Science 1
+Science 2
+Science 3
+Science 4
+Astrogeology 1
+Astrogeology 2
+Astrogeology 3
+Industry 1
+Industry 2
+Industry 3
+Industry 4
+Industry 5
+Spaceship Command 1
+Mining Frigate 1
+Mining Frigate 2
+Mining Frigate 3
+Mining Barge 1
+Mining Barge 2
+Mining Barge 3
+Mining Barge 4
+Mining Barge 5
+Astrogeology 4
+Astrogeology 5
+Spaceship Command 2
+Spaceship Command 3
+Spaceship Command 4
+Exhumers 1
