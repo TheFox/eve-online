@@ -1,0 +1,29 @@
+[Crucifier]
+Nanofiber Internal Structure II
+Heat Sink II
+Drone Damage Amplifier II
+
+Small Capacitor Booster II
+Warp Disruptor II
+5MN Y-T8 Compact Microwarpdrive
+DDO Scoped Tracking Disruptor I
+
+Dual Light Beam Laser II
+Dual Light Beam Laser II
+
+Small Ancillary Current Router II
+Small Auxiliary Thrusters I
+Small Polycarbon Engine Housing I
+
+
+
+Hobgoblin II x3
+Warrior II x3
+Acolyte II x3
+
+Imperial Navy Radio S x2
+Navy Cap Booster 100 x5
+Optimal Range Disruption Script x1
+Navy Cap Booster 200 x10
+Aurora S x2
+Agency 'Overclocker' SB3 Dose I x2

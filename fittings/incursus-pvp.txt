@@ -1,0 +1,25 @@
+incursus-pvp.txt
+[Incursus]
+Damage Control II
+Multispectrum Coating II
+Magnetic Field Stabilizer II
+Small Armor Repairer II
+
+X5 Enduring Stasis Webifier
+Warp Scrambler II
+1MN Y-S8 Compact Afterburner
+
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+
+Small Explosive Armor Reinforcer I
+Small Auxiliary Nano Pump I
+Small Processor Overclocking Unit I
+
+
+
+
+Caldari Navy Antimatter Charge S x1240
+Void S x1260
+Navy Cap Booster 200 x26

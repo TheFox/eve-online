@@ -1,0 +1,25 @@
+[Condor]
+Damage Control II
+Small Ancillary Armor Repairer
+
+1MN Afterburner II
+Warp Scrambler II
+Stasis Webifier II
+Tracking Disruptor II
+
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+Small Energy Neutralizer II
+
+Small Warhead Calefaction Catalyst II
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
+
+
+
+
+Nanite Repair Paste x2
+Caldari Navy Scourge Rocket x919
+Optimal Range Disruption Script x1
+Tracking Speed Disruption Script x1
